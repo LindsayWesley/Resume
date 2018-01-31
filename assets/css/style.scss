@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-.navul nav {
+.navul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -10,11 +10,11 @@
     background-color: #357CC0;
 }
 
-.navli nav {
+.navli {
     float: left;
 }
 
-.nava nav {
+.nava {
     display: block;
     color: #F1F1F1;
     text-align: center;
@@ -23,6 +23,6 @@
 }
 
 /* Change the link color to #111 (black) on hover */
-.nava nav:hover {
+.nava :hover {
     background-color: #398DD5;
 }
