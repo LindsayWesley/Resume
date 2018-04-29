@@ -3,3 +3,4 @@
 # Theme: Architect
 # Theme By: Jekyll
 # Theme Updated By: Lindsay Wesley
+# Version" 1.0
